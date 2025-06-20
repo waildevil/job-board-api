@@ -19,6 +19,6 @@ public class OpenApiConfig {
                         .contact(new Contact()
                                 .name("WailDevil")
                                 .email("wail.homan1@hotmail.com")
-                                .url("https://wail.com")));
+                                .url("https://github.com/waildevil/")));
     }
 }
