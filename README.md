@@ -14,7 +14,7 @@ A RESTful API built with **Spring Boot** for managing jobs, users, and applicati
 
 ## 🧰 Tech Stack
 
-- Java 21, Spring Boot 3.4
+- Java, Spring Boot
 - Spring Security, Spring Data JPA
 - MySQL, Lombok, ModelMapper
 - JWT (jjwt), Springdoc OpenAPI
